@@ -79,11 +79,13 @@ Uninstalling the App may remove locally stored shopping lists, but it does not n
 
 ## 7. Advertising and Consent
 
-Swipe Sweeper may display advertising through Google AdMob, including rewarded advertisements.
+Swipe Sweeper integrates Google AdMob and may display advertisements, including rewarded advertisements.
 
-Advertising-related data processing and consent options may vary depending on your region and applicable law.
+The Android release version uses production Google AdMob identifiers. Advertising services may collect or process advertising identifiers, device information, and advertising interaction data for ad delivery, measurement, fraud prevention, and other purposes described in Google's policies.
 
-Google provides additional information about advertising technologies at [Google's Privacy & Terms](https://policies.google.com/technologies/ads).
+Depending on your region, applicable privacy choices and consent mechanisms may be available.
+
+For more information, see [Google's Privacy Policy](https://policies.google.com/privacy).
 
 ## 8. Children's Privacy
 
